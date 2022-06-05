@@ -1,4 +1,4 @@
-package 进制_8;
+package 进制;
 
 public class BinaryTest {
     public static void main(String[] args) {

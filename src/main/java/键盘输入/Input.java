@@ -1,4 +1,4 @@
-package 键盘输入_7;
+package 键盘输入;
 
 import java.util.Scanner;//表示把java.util下的Scanner类导入
 

@@ -1,4 +1,4 @@
-package 逻辑运算符_4;
+package 逻辑运算符;
 
 public class LogicOperator01 {
     public static void main(String[] args) {

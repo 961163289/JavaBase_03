@@ -1,4 +1,4 @@
-package 算术运算符_1;
+package 算术运算符;
 
 public class ArithmeticOperator {
     public static void main(String[] args) {

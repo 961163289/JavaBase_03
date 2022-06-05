@@ -1,4 +1,4 @@
-package 三元运算符_6;
+package 三元运算符;
 
 public class TernaryOperatorExercise {
     public static void main(String[] args) {

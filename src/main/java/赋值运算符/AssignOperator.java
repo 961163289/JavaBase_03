@@ -1,4 +1,4 @@
-package 赋值运算符_5;
+package 赋值运算符;
 
 public class AssignOperator {
     public static void main(String[] args) {

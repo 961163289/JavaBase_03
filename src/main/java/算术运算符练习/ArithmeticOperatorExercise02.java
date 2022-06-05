@@ -1,4 +1,4 @@
-package 算术运算符练习_2;
+package 算术运算符练习;
 
 public class ArithmeticOperatorExercise02 {
     public static void main(String[] args) {
